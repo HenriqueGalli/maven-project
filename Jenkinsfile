@@ -10,9 +10,9 @@ pipeline {
                     echo 'Now Archiving....'
                     archiveArtifacts artifacts: '**/target/*.war'
                 }
-            }
+            }            
         }
-        stage('Deploy to Staging'){
+                stage('Deploy to Staging'){
             steps{
                 timeout(time:5,unit:'DAYS'){
                     input message: 'Approve PRODUCTION Deployment?'
@@ -32,6 +32,6 @@ pipeline {
             steps{
                 build job: 'deploy-to-staging'
             }   
-        }    
+        } 
     }
 }
