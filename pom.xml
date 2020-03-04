@@ -26,6 +26,10 @@
             <id>testeDeploy</id>
             <url>https://nexus.atomicsolutions.com.br/repository/testeDeploy/</url>
         </repository>
+        <snapshotRepository>
+             <id>testeDeploy</id>
+             <url>https://nexus.atomicsolutions.com.br/repository/testeDeploy/</url>
+         </snapshotRepository>  
   </distributionManagement>
 
   <build>
