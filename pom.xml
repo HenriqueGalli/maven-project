@@ -23,7 +23,7 @@
 
   <distributionManagement>
      <repository>
-            <id>teste_deploy</id>
+            <id>testeDeploy</id>
             <url>https://nexus.atomicsolutions.com.br/repository/testeDeploy/</url>
         </repository>
   </distributionManagement>
