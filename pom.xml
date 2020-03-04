@@ -16,7 +16,6 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
 
-
   <distributionManagement>
      <repository>
             <uniqueVersion>false</uniqueVersion>
