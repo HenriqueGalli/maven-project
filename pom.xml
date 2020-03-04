@@ -23,9 +23,11 @@
 
   <distributionManagement>
      <repository>
+            <uniqueVersion>false</uniqueVersion>
             <id>testeDeploy</id>
             <name>teste</name>
             <url>https://nexus.atomicsolutions.com.br/repository/testeDeploy/</url>
+            <layout>default</layout>
         </repository>    
   </distributionManagement>
 
