@@ -23,15 +23,12 @@
 
   <distributionManagement>
      <repository>
-            <id>testeDeploy</id>
-            <name>Internal Releases</name>  
+            <id>testeDeploy</id>              
             <url>https://nexus.atomicsolutions.com.br/repository/testeDeploy/</url>
-        </repository>
-        <snapshotRepository>
-             <id>testeDeploy</id>
-             <name>Internal Releases</name>  
-             <url>https://nexus.atomicsolutions.com.br/repository/testeDeploy/</url>
-         </snapshotRepository>  
+            <releases>
+                     <enabled>true</enabled>
+            </releases>  
+        </repository>    
   </distributionManagement>
 
   <build>
