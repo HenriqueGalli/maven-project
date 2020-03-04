@@ -9,7 +9,7 @@
   <version>0.0.2</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
-  <url>http://www.example.com</url>
+  <url>https://nexus.atomicsolutions.com.br/repository/testeDeploy/</url>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
