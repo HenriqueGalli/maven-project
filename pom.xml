@@ -20,7 +20,7 @@
      <repository>
             <id>jenkins-release</id>
             <name>jenkins-release</name>
-            <url>https://nexus.atomicsolutions.com.br/repository/jenkins-release/</url>
+            <url>https://nexus.atomicsolutions.com.br/repository/TESTE/</url>
         </repository>    
   </distributionManagement>
 
