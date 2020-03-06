@@ -15,7 +15,15 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
-
+         
+   <configuration>
+      <!--
+        During release:perform, enable the "release" profile
+       -->
+      <releaseProfiles>release</releaseProfiles>
+    </configuration>
+         
+         
   <distributionManagement>
      <repository>
             <id>jenkins-release</id>
