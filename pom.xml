@@ -18,9 +18,9 @@
          
   <distributionManagement>
      <repository>
-            <id>jenkins-release</id>
-            <name>jenkins-release</name>
-            <url>https://nexus.atomicsolutions.com.br/repository/jenkins-release/</url>
+            <id>jenkins-snap</id>
+            <name>jenkins-snap</name>
+            <url>https://nexus.atomicsolutions.com.br/repository/jenkins-snap/</url>
         </repository>    
   </distributionManagement>
 
