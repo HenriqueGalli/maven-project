@@ -18,9 +18,9 @@
 
   <distributionManagement>
      <repository>
-            <id>IntegrationJenkins</id>
-            <name>integrationDeploy</name>
-            <url>https://nexus.atomicsolutions.com.br/repository/IntegrationJenkins/</url>
+            <id>jenkins-release</id>
+            <name>jenkins-release</name>
+            <url>https://nexus.atomicsolutions.com.br/repository/jenkins-release/</url>
         </repository>    
   </distributionManagement>
 
