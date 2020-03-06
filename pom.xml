@@ -17,11 +17,11 @@
   </properties>
          
   <distributionManagement>
-     <repository>
+     <snapshotRepository>
             <id>jenkins-snap</id>
             <name>jenkins-snap</name>
             <url>https://nexus.atomicsolutions.com.br/repository/jenkins-snap/</url>
-        </repository>    
+        </snapshotRepository>    
   </distributionManagement>
 
   <build>
