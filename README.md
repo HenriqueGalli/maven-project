@@ -1,5 +1,5 @@
 # maven-project
-Source code for James Lee's Jenkins course.6
+Source code for James Lee's Jenkins course.7
 
 Check out our Latest DevOps PDF book.
 
