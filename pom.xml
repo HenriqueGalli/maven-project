@@ -216,14 +216,14 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-<!--
+
   <scm>
     <connection>scm:git:git@github.com:HenriqueGalli/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:HenriqueGalli/maven-project.git</developerConnection>
     <tag>HEAD</tag>
     <url>http://github.com/HenriqueGalli/maven-project</url>
   </scm>
--->
+
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
